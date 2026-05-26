@@ -21,6 +21,10 @@
 
 ## Esempi
 
+## Screenshots
+
+![Schermata iniziale del sito con i repository popolari](assets/images/homepage.png)
+
 ## Struttura del progetto
 
 ## Autori
