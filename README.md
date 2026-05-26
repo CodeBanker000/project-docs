@@ -27,6 +27,12 @@
 
 ## Struttura del progetto
 
+| Percorso | Descrizione |
+| --- | --- |
+| `docs/` | Documentazione del progetto |
+| `src/` | Codice sorgente |
+| `assets/immagini` | Immaginie screenshot |
+
 ## Autori
 
 ## Licenza
