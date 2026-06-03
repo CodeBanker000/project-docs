@@ -96,3 +96,7 @@ tbody td {
     padding-block: .3em;
     padding-right: 1em;
 }
+
+.even {
+    background-color: #cfcdcd;
+}
